@@ -67,12 +67,28 @@ The system provides:
 | **Android / Java** | Mobile application development for caregiver alerts |
 
 ## Files in This Repository
-| File | Description |
-| :--- | :--- |
-| **ai.py** | Main Python gateway logic for vitals monitoring and cloud sync |
-| **SPARTAN_code.py** | Source code for sensor integration and hardware control |
-| **Thesis_Report.pdf** | Full technical documentation and methodology |
-| **README.md** | Project documentation |
+
+📂 src/	Source Code Folder
+├── main_gateway.py	Primary Python logic for real-time anomaly detection and Firebase synchronization.
+└── sensor_integration.c	Embedded C code for sensor data acquisition and hardware-level calibration.
+📂 docs/	Project Documentation
+├── SPARTAN_Thesis_Report.pdf	Comprehensive 2021 Engineering Thesis covering methodology and results.
+└── Final_Review.pdf	Technical presentation deck used for the final project defense.
+📂 images/	Visual Assets
+├── System_Architecture.jpg	High-level diagram showing the IoMT data flow from sensors to the cloud.
+├── Hardware_Prototype.jpg	Photo of the physical assembly featuring the Jetson Nano and integrated sensors.
+├── qt1.jpg	Visual representation of the GUI used for real-time vitals monitoring.
+└── qt2.png	Secondary dashboard view showing historical data tracking and alerts.
+📄 README.md	Main project documentation and business-case summary.
+
+
+## The Team
+This project was developed as a collaborative Senior Capstone Project:
+* **Joshua Manoj** – System Architecture, Python Gateway Logic, and Cloud Integration.
+* **Roshan Raj A** – Hardware Integration and Sensor Calibration.
+* **Kishore M** – Android Application Development and UI/UX.
+
+**Supervisor:** Dr. D. Egfin Nirmala, Prof & Head, ECE Department.
 
 ## Author
 **Joshua Manoj**
