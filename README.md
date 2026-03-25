@@ -83,14 +83,14 @@ The system provides:
 
 
 ## The Team
-This project was developed as a collaborative Senior Capstone Project:
-* **Joshua Manoj** – System Architecture, Python Gateway Logic, and Cloud Integration.
-* **Roshan Raj A** – Hardware Integration and Sensor Calibration.
-* **Kishore M** – Android Application Development and UI/UX.
+This project was developed as a collaborative final year Capstone Project:
+* **Joshua Manoj**
+* **Roshan Raj A**
+* **Kishore M**
 
 **Supervisor:** Dr. D. Egfin Nirmala, Prof & Head, ECE Department.
 
 ## Author
 **Joshua Manoj**
-Data Analyst | B.Eng Electronics & Communications | Google Data Analytics Certified
+Data Analyst | B.Eng Electronics & Communications | Business Management Diploma | Google Data Analytics Certified
 LinkedIn · Tableau Public
